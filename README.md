@@ -1,42 +1,37 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Enthenkillum Thenga 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: DG
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Gaius K Thomas - College of Engineering Poonjar
+- Member 2: Devanand KS - College of Engineering Poonjar
 
 ### Project Description
-[2-3 lines about what your project does]
+Enthenkilum Thenga is a modern, developer-centric toolkit crafted to streamline the setup and development of React applications. It leverages cutting-edge tools like Vite, TypeScript, and Tailwind CSS to deliver a fast, maintainable, and scalable project architecture.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Budget tracking
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Solving it by making it worse
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript
+- Typescript
+- React
+- Tailwind
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software: Hosted on Vercel
 # Installation
 [commands]
 
